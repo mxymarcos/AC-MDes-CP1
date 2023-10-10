@@ -20,6 +20,8 @@ The use of “code” here is pretty vague, but given the context of the article
 
 I 100% agree with this sentiment. There is a similar problem with the education of UX design and visual design. A lot of formal design education is purely focused on either high level architecture & layout, or “how to make things pretty”.
 
+<br/>
+
 ## Article 2
 
 >“Prototypes are not necessarily self-explanatory. What is significant is not what media or tools were are used to create them, but how they are used by a designer to explore or demonstrate some aspect of the future artifact.”
