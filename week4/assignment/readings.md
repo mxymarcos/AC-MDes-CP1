@@ -8,7 +8,7 @@
 
 I do agree that having at least a basic understanding of programming is becoming more relevant than ever. Given how fast we & the world move, knowing programming helps designers to communicate ideas and inspirations more effectively.
 
-<br/>
+<br/><br/>
 
 >“Code enables designers to do things they couldn't do before. Variations of a design can be tested much faster during the prototyping phase, and randomization can be used to reveal designs that the designer would never have created with a pencil.”
 
