@@ -10,10 +10,12 @@ However, the video was still helpful and it has helped me learn new concepts, sh
 
 Here are a few renders of the scene I created - 
 
+The first one is rendered with Cycles engine. The rest are with Eevee.
+
+![untitled.png](untitled.png)
+
 ![wide2.png](wide2.png)
 
 ![closeup.png](closeup.png)
 
 ![wide.png](wide.png)
-
-![untitled.png](untitled.png)
