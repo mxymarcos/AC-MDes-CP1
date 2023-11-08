@@ -27,3 +27,8 @@ I am stilling working on the final prototype of the web dashboard, so that has n
 Here's the rendered image in glorious 1080p - 
 
 ![render.png](render.png)
+
+#### Resources used:
+* Blender Kit
+* Free PBR
+* https://www.cgbookcase.com/learn/how-to-use-pbr-textures-in-blender/
