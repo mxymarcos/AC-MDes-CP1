@@ -12,3 +12,18 @@ This is what the studio looks like now:
 
 ![studio.png](studio.png)
 
+### Update - 11/7
+
+To complete the home studio atmosphere, I have added a floor lamp and an acoustic guitar to the scene. I have then duplicated the acoustic foam model to cover the entire back wall as seen in the image below - 
+
+![studio2.png](studio2.png)
+
+I have also tweaked the overhead lighting to simulate a ceiling light. I went with the spot light option to add some dramatic effect while drawing more attention towards the center of the scene, which is the computer monitor.
+
+I couldn't figure out how to create a wooden floor so I followed a tutorial, which uses PBR textures to modify the material of an object. After experimenting with different PBR samples and sizes, I got the wooden floor somewhat realistic looking.
+
+I am stilling working on the final prototype of the web dashboard, so that has not been added. I did render a static frame of the scene using the cycles engine, and it look roughly 40 minutes for a single image. For the animated video I think I will probably have to revert back to Eevee.
+
+Here's the rendered image in glorious 1080p - 
+
+![render.png](render.png)
